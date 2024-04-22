@@ -1,1 +1,1 @@
-# Youtube-Sentimental-Analysis
+# Youtube-Sentiment-Analysis
